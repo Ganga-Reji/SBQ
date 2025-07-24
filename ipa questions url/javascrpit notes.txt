@@ -1,0 +1,100 @@
+Here’s a breakdown of all **65 subtopics** from the outline, including the main topics and subtopics:
+
+---
+
+### 1. *JavaScript and Introduction*
+   1. What is JavaScript?
+   2. How does JavaScript relate to Java?
+   3. Navigating the JavaScript landscape
+
+---
+
+### 2. *The Basics*
+   4. Tools for JavaScript development
+   5. Introducing the browser console
+   6. Add inline JavaScript to an HTML document
+   7. Add JavaScript in an external file
+   8. How to write JavaScript: A crash course
+
+---
+
+### 3. *Working with Data*
+   9. Variables: The catch-all containers of JavaScript
+   10. Data types in JavaScript
+   11. Arithmetic operators and math
+   12. Working with strings and numbers
+   13. Conditional statements and logic
+   14. Advanced conditions and logic
+   15. Arrays: Properties and methods in arrays
+
+---
+
+### 4. *Functions in JavaScript*
+   16. Build a basic function
+   17. Add arguments to the function
+   18. Return values from a function
+   19. Anonymous functions
+   20. Immediately Invoked Functional Expressions (IIFE)
+   21. Variable scope: Let and const
+   22. Make sense of objects
+   23. Object constructors
+   24. Dot and bracket notation
+   25. Closures
+
+---
+
+### 5. *JavaScript and the DOM (Part One)*
+   26. Changing DOM elements: The Document Object Model
+   27. Target elements in the DOM with query selector methods
+   28. Access and change elements
+   29. Access and change classes
+   30. Access and change attributes
+   31. Add DOM elements
+   32. Apply inline CSS to an element
+
+---
+
+### 6. *Project: Create an Analog Clock*
+   33. Create an analog clock project
+   34. Use CSS to move clock hands
+   35. Use JavaScript to move clock hands
+   36. Get the current hour, minute, and second with the Date object
+   37. Show the current time using fancy math
+   38. Make the clock move forward second by second
+   39. Solve the test key
+   40. Return to zero
+
+---
+
+### 7. *JavaScript and the DOM (Part Two): Events*
+   41. What are DOM events?
+   42. Some typical DOM events
+   43. Trigger functions with event handlers
+   44. Add and use event listeners
+   45. Pass arguments via event listeners
+
+---
+
+### 8. *Project: Typing Speed Tester*
+   46. Typing Speed Tester project (single subtopic)
+
+---
+
+### 9. *Loops*
+   47. Looping through arrays
+   48. Break and continue loops
+
+---
+
+### 10. *Troubleshooting, Validating, and Minifying JavaScript*
+   49. JavaScript validation troubleshooting
+   50. Troubleshooting JavaScript
+   51. Send troubleshooting info to the console
+   52. Step through your JavaScript with browser tools
+   53. Online script lending
+   54. Automate script lending
+   55. Automate script minification
+
+---
+
+That makes a total of **65 subtopics**, including the project sections.
